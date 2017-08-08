@@ -1,0 +1,3 @@
+*.txt
+#设置不要忽略note.txt
+!note.txt
